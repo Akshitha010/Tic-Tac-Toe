@@ -51,8 +51,10 @@ const checkWinner=()=>{
         if(posVal1!=="" && posVal1===posVal2 && posVal2===posVal3){
             console.log("winner",posVal1);
             showWinner(posVal1);
+            return true;
         }
     }
+    retrun false;
 }
 const gameDraw = () => {
   msg.innerText = `Game was a Draw.`;
