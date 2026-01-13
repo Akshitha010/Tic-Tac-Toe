@@ -37,3 +37,63 @@ This project is beginner-friendly and focuses on DOM manipulation and event hand
 
 ## 📁 Project Structure
 
+```text
+TicTacToe/
+├── index.html      # HTML structure of the game
+├── style.css       # Styling and layout
+├── app.js          # Game logic and event handling
+├── assets/
+│   └── tictactoe.png
+└── README.md
+```
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shradha-khapra/JavaScriptSeries.git
+   ```
+
+2. Navigate to the Tic Tac Toe folder:
+   ```bash
+   cd JavaScriptSeries/TicTacToe
+   ```
+
+3. Open `index.html` in any web browser.
+
+✅ No installation or server setup required.
+
+---
+
+## 🎯 How the Game Works
+
+- The game board consists of a 3×3 grid.
+- Players take turns clicking on empty cells.
+- Each click places an **X** or **O** on the board.
+- After every move, the game checks for:
+  - A winning combination
+  - A draw condition
+- A reset option allows players to restart the game.
+
+---
+
+## 🔮 Future Improvements
+
+- Single-player mode (play against computer)
+- Scoreboard for tracking wins
+- Animations and sound effects
+- Improved mobile responsiveness
+
+---
+
+## 📜 License
+
+This project is open-source and free to use for learning and practice.
+
+---
+
+### ✨ Author
+
+Built as part of JavaScript learning and practice.
