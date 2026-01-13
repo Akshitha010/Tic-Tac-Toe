@@ -7,15 +7,11 @@ This project is beginner-friendly and focuses on DOM manipulation and event hand
 
 ## 📸 Screenshot
 
-<p align="center">
-  <img src="assets/tttss1.png" width="400">
-  <img src="assets/tttss2.png" width="400">
-  <img src="assets/tttss3.png" width="400">
+<p align="center"><img src="tttss1.png" width="400"></p>
+<p align="center"><img src="tttss2.png" width="400"></p>
+<p align="center"><img src="tttss3.png" width="400"></p>
   
 </p>
-
-> 📌 Make sure your screenshot is placed at:  
-> `TicTacToe/assets/tictactoe.png`
 
 ---
 
