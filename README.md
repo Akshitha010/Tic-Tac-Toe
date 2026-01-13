@@ -6,12 +6,11 @@ This project is beginner-friendly and focuses on DOM manipulation and event hand
 ---
 
 ## 📸 Screenshot
-
-<p align="center"><img src="tttss1.png" width="400"></p>
-<p align="center"><img src="tttss2.png" width="400"></p>
-<p align="center"><img src="tttss3.png" width="400"></p>
-  
-</p>
+<div display="inline-block">
+  <p align="left"><img src="tttss1.png" width="400"></p>
+  <p align="center"><img src="tttss2.png" width="400"></p>
+  <p align="right"><img src="tttss3.png" width="400"></p>
+</div>
 
 ---
 
