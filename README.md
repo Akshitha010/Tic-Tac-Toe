@@ -53,15 +53,10 @@ TicTacToe/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shradha-khapra/JavaScriptSeries.git
+   git clone https://github.com/Akshitha010/Tic-Tac-Toe
    ```
 
-2. Navigate to the Tic Tac Toe folder:
-   ```bash
-   cd JavaScriptSeries/TicTacToe
-   ```
-
-3. Open `index.html` in any web browser.
+2. Open `index.html` in any web browser.
 
 ✅ No installation or server setup required.
 
