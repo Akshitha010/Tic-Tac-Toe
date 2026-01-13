@@ -7,7 +7,7 @@ This project is beginner-friendly and focuses on DOM manipulation and event hand
 
 ## 📸 Screenshot
 <div display="inline-block">
-  <img src="tttss3.png" height="325" width="300">
+  <img src="tttss3.png" height="355" width="300">
   <img src="tttss2.png" height="300" width="300">
   <img src="tttss1.png" height="300" width="300">
 </div>
